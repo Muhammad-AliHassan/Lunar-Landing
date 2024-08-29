@@ -12,7 +12,6 @@ This project implements a Feed-Forward Backpropagation Neural Network to solve a
 - [Testing and Performance](#testing-and-performance)
 - [Usage](#usage)
 - [Files](#files)
-- [Acknowledgments](#acknowledgments)
 
 ## Data Collection
 
